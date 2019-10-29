@@ -1,5 +1,6 @@
 ---
 title: "github1"
+author: "EYERUS"
 output: html_document
 ---
 
